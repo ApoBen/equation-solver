@@ -1,0 +1,16 @@
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreeequation.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreeequation.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.Form1.resources
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreeequation.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreeequation.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\2nddegreequation.exe.config
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\2nddegreequation.exe.manifest
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\2nddegreequation.application
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\2nddegreequation.exe
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\2nddegreequation.pdb
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\apos2ndeq.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreequation.exe.manifest
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreequation.application
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreequation.exe
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreequation.pdb
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\2nddegreequation.TrustInfo.xml

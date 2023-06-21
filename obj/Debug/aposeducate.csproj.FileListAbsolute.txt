@@ -1,0 +1,15 @@
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\aposeducate.exe.config
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\aposeducate.exe
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\aposeducate.pdb
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.Form1.resources
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.exe
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.pdb
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\aposeducate.exe.manifest
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\bin\Debug\aposeducate.application
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.exe.manifest
+C:\Users\abdul\Desktop\vs22\apobenn\aposeducate\obj\Debug\aposeducate.application
